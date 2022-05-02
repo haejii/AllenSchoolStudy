@@ -1,0 +1,6 @@
+view LifeCycle 을 어디서 사용하면 좋을까?
+
+1. view DidLoad
+네트워크 호출 초기 세팅 시 
+2. view will appear
+nav top bar 같은 부분
